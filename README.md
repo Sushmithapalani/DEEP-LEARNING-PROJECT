@@ -18,3 +18,7 @@ Throughout the project, various TensorFlow and Keras utilities are employed to c
 This deep learning model finds extensive applicability in numerous real-world scenarios where automated image classification is essential. It serves as a foundational example for advanced applications such as medical image diagnostics, facial recognition systems, autonomous driving (for object and obstacle detection), quality control in manufacturing, and even in security systems for anomaly detection. Moreover, the modular and scalable nature of TensorFlow makes it suitable for deploying this model onto cloud platforms or edge devices, thus broadening its practical impact.
 In summary, this task encapsulates the complete pipeline of a deep learning project on a modern software stack: from setting up the development environment on Windows using VS Code, building and training a CNN with TensorFlow in Python, to visualizing results with matplotlib. It highlights how contemporary open-source tools empower developers and researchers to prototype, validate, and eventually deploy intelligent models across a diverse range of industries
 
+# output
+
+<img width="1449" height="578" alt="Image" src="https://github.com/user-attachments/assets/338709cb-99c3-4b56-a4b6-37a8b151ae49" />
+<img width="1909" height="1070" alt="Image" src="https://github.com/user-attachments/assets/6fd3e584-4524-441d-9a79-fa7a6bd5036c" />
